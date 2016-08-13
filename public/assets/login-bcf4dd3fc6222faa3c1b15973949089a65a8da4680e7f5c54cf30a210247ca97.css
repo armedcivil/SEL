@@ -1,0 +1,11 @@
+/* line 5, /home/hiroumi/rails_projects/SEL/app/assets/stylesheets/login.scss */
+.screen_center .login {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  background-color: #000;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  --webkit-transform: translate(-50%, -50%);
+}
