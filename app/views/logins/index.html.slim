@@ -4,8 +4,6 @@ html
     = stylesheet_link_tag "login", media: "all"
   body style="width:100%; height:100%;"
     div.screen_center.login
-      p e-mail
-      textarea
-      p pass
-      textarea
-      button submit
+      form.screen_center method="post" action="/logins/login"
+        p
+          User Name: input name="name"
