@@ -22,38 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-eoeoeoeoeoeo
-jfiej
-ppppppp
-kkkkkk
-ffffff
-jjjjjjj
-  j;oij
-jjjjjjjjjjjjjj
-jfeifjjj
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
-hogehoge
